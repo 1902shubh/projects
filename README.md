@@ -20,3 +20,7 @@
 [Learning App](https://play.google.com/store/apps/details?id=com.jkdevelopment.javaappmy)
 
 [Drive Link](https://drive.google.com/drive/folders/1Qcw23fsHjtcV407FofgIMOnD9yfZ11cl)
+
+[Instagram Reels and Story Downloader](https://github.com/1902shubh/projects/blob/main/apks/Instagram%20Downloader-debug.apk)
+
+[Video Editor : Video Cutter, Compression, to mp3, mixer, to image, fast motion, to gif, slow motion, splitter, Compressor](https://github.com/1902shubh/projects/blob/main/apks/Instagram%20Downloader-debug.apk)
