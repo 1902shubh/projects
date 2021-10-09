@@ -23,4 +23,4 @@
 
 [Instagram Reels and Story Downloader](https://github.com/1902shubh/projects/blob/main/apks/Instagram%20Downloader-debug.apk)
 
-[Video Editor : Video Cutter, Compression, to mp3, mixer, to image, fast motion, to gif, slow motion, splitter, Compressor](https://github.com/1902shubh/projects/blob/main/apks/Instagram%20Downloader-debug.apk)
+[Video Editor : Video Cutter, Compression, to mp3, mixer, to image, fast motion, to gif, slow motion, splitter, Compressor](https://github.com/1902shubh/projects/blob/main/apks/Video%20Editor%20.apk)
