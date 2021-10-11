@@ -19,6 +19,8 @@
 
 [Learning App](https://play.google.com/store/apps/details?id=com.jkdevelopment.javaappmy)
 
+[Learning App 2 ](https://play.google.com/store/apps/details?id=com.androdeveloper.learnjava)
+
 [Drive Link](https://drive.google.com/drive/folders/1Qcw23fsHjtcV407FofgIMOnD9yfZ11cl)
 
 [Instagram Reels and Story Downloader](https://github.com/1902shubh/projects/blob/main/apks/Instagram%20Downloader-debug.apk?raw=true)
@@ -27,3 +29,7 @@
 
 [Video Editor : Video Cutter, Compression, to mp3, mixer, to image, fast motion, to gif, slow motion, splitter, Compressor](https://github.com/1902shubh/projects/blob/main/apks/Video%20Editor%20.apk?raw=true)
 
+
+## Developers Profile
+* [Vipin Sikarwar](https://github.com/sikarwar0020)
+* [Jenil Vaghani](https://github.com/jenil-vaghani)
