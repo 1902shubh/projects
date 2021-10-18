@@ -11,6 +11,8 @@
 
 [Earning App](https://play.google.com/store/apps/details?id=com.androdeveloper.sapearnmoney)
 
+[Earning App 2](https://play.google.com/store/apps/details?id=com.earning.jkearningapp)
+
 [Book - Buy and Sell](https://play.google.com/store/apps/details?id=com.reselling.visionary)
 
 [Video and Image Compressor](https://play.google.com/store/apps/details?id=com.video.compressor.app.jetBinary)
