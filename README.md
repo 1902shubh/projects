@@ -32,6 +32,8 @@
 
 [Video Editor : Video Cutter, Compression, to mp3, mixer, to image, fast motion, to gif, slow motion, splitter, Compressor](https://github.com/1902shubh/projects/blob/main/apks/Video%20Editor%20.apk?raw=true)
 
+[Facebook Video Downloader](https://github.com/1902shubh/projects/raw/main/apks/app-release.apk)
+
 [Instagram Reels and Story Downloader](https://github.com/1902shubh/projects/blob/main/apks/Instagram%20Downloader-debug.apk?raw=true)
 
 [Instagram Video/reels/story downloader with private account with Download History](https://github.com/1902shubh/projects/blob/main/apks/Insatgram%20Story%20and%20reels%20downlaoder%20with%20private%20account.apk?raw=true)
