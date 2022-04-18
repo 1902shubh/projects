@@ -6,11 +6,13 @@
 
 [Ecommerce App](https://play.google.com/store/apps/details?id=kasuwaniger.nuohost.uk)
 
+[Ecommerce App with Firebase](https://play.google.com/store/apps/details?id=com.androdeveloper.vcptrust)
+
+[Home Service Provider](https://play.google.com/store/apps/details?id=com.sixt9studio.vitalhomecare)
+
 [Religion app](https://play.google.com/store/apps/details?id=com.quran.quraninhindi)
 
 [Loan Guide App](https://play.google.com/store/apps/developer?id=Loan+App+-+Flip+Loan+Pvt.Ltd)
-
-[Ecommerce App with Firebase](https://play.google.com/store/apps/details?id=com.androdeveloper.vcptrust)
 
 [Useful Tools](https://play.google.com/store/apps/dev?id=6410916672523968137)
 
