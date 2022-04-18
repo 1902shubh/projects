@@ -2,6 +2,23 @@
 ## Lot's of projects on that we worked
 
 
+[Zomato Clone](https://play.google.com/store/apps/developer?id=Hubli+Savjifoods+Pvt+Ltd)
+
+[Ecommerce App](https://play.google.com/store/apps/details?id=kasuwaniger.nuohost.uk)
+
+[Religion app](https://play.google.com/store/apps/details?id=com.quran.quraninhindi)
+
+[Loan Guide App](https://play.google.com/store/apps/developer?id=Loan+App+-+Flip+Loan+Pvt.Ltd)
+
+[Ecommerce App with Firebase](https://play.google.com/store/apps/details?id=com.androdeveloper.vcptrust)
+
+[Useful Tools](https://play.google.com/store/apps/dev?id=6410916672523968137)
+
+[Stock News App](https://play.google.com/store/apps/details?id=com.mac.topcryptonews)
+
+[Earning App](https://play.google.com/store/apps/details?id=in.papayacoders.nxearningappnew)
+
+
 [Play Console 1](https://play.google.com/store/apps/dev?id=6135237455214853747)
 
 [Play Console 2](https://play.google.com/store/apps/developer?id=Jk+development&hl=en)
@@ -45,10 +62,3 @@
 [Whatsapp Status Saver with android 11](https://play.google.com/store/apps/details?id=in.papaya.whatsappstatussaver)
 
 
-# Fiverr Link
- - [College App](https://www.fiverr.com/shubham1902/college-management-app-with-admin-app) 
-
-
-## Developers Profile
-* [Vipin Sikarwar](https://github.com/sikarwar0020)
-* [Jenil Vaghani](https://github.com/jenil-vaghani)
